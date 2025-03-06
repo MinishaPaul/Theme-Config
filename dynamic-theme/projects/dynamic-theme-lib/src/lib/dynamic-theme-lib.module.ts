@@ -1,11 +1,15 @@
 import { NgModule } from '@angular/core';
 import { DynamicThemeLibComponent } from './dynamic-theme-lib.component';
+import { BackgroundColorDirective } from './directives/background-colour.directive';
+import { TextColorDirective } from './directives/text-colour.directive';
 
 
 
 @NgModule({
   declarations: [
-    DynamicThemeLibComponent
+    DynamicThemeLibComponent,
+    BackgroundColorDirective,
+    TextColorDirective
   ],
   imports: [
   ],
