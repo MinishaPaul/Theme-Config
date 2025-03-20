@@ -12,25 +12,8 @@ A flexible and powerful Angular library for managing dynamic themes and color sc
 - ⚡ Support for Angular 12 through 19
 
 ## Repository Structure
-dynamic-theme/
-├── projects/
-│ └── dynamic-theme-lib/ # Library source code
-│ ├── src/
-│ │ ├── lib/
-│ │ │ ├── directives/ # Color directives
-│ │ │ ├── services/ # Color service
-│ │ │ └── ...
-│ │ └── public-api.ts
-│ └── package.json
-└── sample-app/ # Sample application
-├── src/
-│ ├── app/
-│ │ ├── app.component.ts
-│ │ └── app.module.ts
-│ └── assets/
-│ └── colors/
-│ └── color-config.json
-└── package.json
+
+![image](https://github.com/user-attachments/assets/d9bd9e2a-e88b-425a-9af1-231d36864138)
 
 
 ## Installation
